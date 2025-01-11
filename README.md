@@ -1,2 +1,2 @@
 # Cplusplus-Study-Repo
-C++ 공부 레포지토리
+C++ 공부 리포지토리
